@@ -1,10 +1,9 @@
-# hey, I'm Vlad
+# Hey, I'm Vlad
 
 AI/full-stack engineer. I build things that ship — LLM pipelines, ML models, full-stack products — mostly at startups where "we'll figure it out" is a job requirement.
 
 Currently based in Tokyo 🗼
 
----
 
 ## what I work with
 
@@ -13,13 +12,11 @@ Currently based in Tokyo 🗼
 **Frontend** — React, TypeScript, Next.js  
 **Infra** — Docker, PostgreSQL, MongoDB, Firebase, AWS, GCP
 
----
 
 ## currently building
 
 **AI-augmented Zettelkasten** — a knowledge management system that uses LLMs and clustering to surface connections between notes you didn't know you were making. Full-stack: FastAPI + pgvector backend, React frontend, custom embeddings pipeline.
 
----
 
 ## things I've shipped
 
@@ -31,7 +28,6 @@ Currently based in Tokyo 🗼
 - **PersonaVault** — browser extension + local vault daemon for PII aliasing; AES-256-GCM encryption, SQLCipher storage, SimpleLogin integration
 - **Fresh Station** — co-founded an IoT indoor gardening startup. Won gold at INTARG 2020 and two silvers across 60+ countries.
 
----
 
 ## elsewhere
 
