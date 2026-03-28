@@ -5,7 +5,7 @@ AI/full-stack engineer. I build things that ship — LLM pipelines, ML models, f
 Currently based in Tokyo 🗼
 
 
-## what I work with
+## What I work with
 
 **AI/ML** — RAG pipelines, LLM integration, XGBoost, PyTorch, TensorFlow, NLP, embeddings, vector search  
 **Backend** — Python, FastAPI, Django, Flask, Go  
@@ -13,12 +13,12 @@ Currently based in Tokyo 🗼
 **Infra** — Docker, PostgreSQL, MongoDB, Firebase, AWS, GCP
 
 
-## currently building
+## Currently building
 
 **AI-augmented Zettelkasten** — a knowledge management system that uses LLMs and clustering to surface connections between notes you didn't know you were making. Full-stack: FastAPI + pgvector backend, React frontend, custom embeddings pipeline.
 
 
-## things I've shipped
+## Things I've shipped
 
 - **Pricing ML model** — XGBoost + LLM integration trained on 100k+ charter flight records; ~20% improvement in quote accuracy @ PrivateJet.com
 - **flatview.news** — multilingual news app that translates underreported global stories on the fly using GPT-4o-mini + LangChain, with Auth0, Stripe, and async batch processing
@@ -29,7 +29,7 @@ Currently based in Tokyo 🗼
 - **Fresh Station** — co-founded an IoT indoor gardening startup. Won gold at INTARG 2020 and two silvers across 60+ countries.
 
 
-## elsewhere
+## Elsewhere
 
 [vkram.dev](https://vkram.dev) · [linkedin](https://linkedin.com/in/vlad-kramarenko) · [upwork](https://www.upwork.com/freelancers/~01fde4bc85457f3469)
 <!--
